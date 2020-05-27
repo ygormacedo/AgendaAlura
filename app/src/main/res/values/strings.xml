@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="aluno_item_xml">Aluno</string>
+    <string name="number_item_xml">1122334455667788</string>
+    <string name="name_user">Name for user</string>
+    <string name="telephone_user">Telephone for user</string>
+    <string name="email_user">E-mail</string>
+    <string name="save_aluno">Salvar o aluno</string>
+    <string name="remove_aluno">Remover</string>
+</resources>
